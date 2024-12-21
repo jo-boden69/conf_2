@@ -1,0 +1,6 @@
+<config>
+    <visualizer_path>.\plantuml-1.2024.7.jar</visualizer_path>
+    <package_name>requests</package_name>
+    <max_depth>4</max_depth>
+    <repository_url>https://pypi.org/project/requests/</repository_url>
+</config>
